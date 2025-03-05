@@ -1,0 +1,486 @@
+Date: 2023-10-23 14:52:53.583155, Interval: 25.321, Type: Eyes not on road
+Date: 2023-10-23 14:52:55.996128, Interval: 30.591, Type:Normal
+Date: 2023-10-23 14:53:00.443561, Interval: 4.447, Type:Yawning
+Date: 2023-10-23 14:53:01.529879, Interval: 1.08, Type:Normal
+Date: 2023-10-23 14:53:04.200237, Interval: 2.67, Type:Drowsy
+Date: 2023-10-23 14:53:05.378646, Interval: 1.173, Type:Normal
+Date: 2023-10-23 14:53:09.737645, Interval: 4.267, Type:Normal
+Date: 2023-10-23 14:53:13.054564, Interval: 3.317, Type:Drowsy
+Date: 2023-10-23 14:53:14.438898, Interval: 1.13, Type:Normal
+Date: 2023-10-23 14:53:21.030967, Interval: 5.76, Type:Normal
+Date: 2023-10-23 14:53:22.058374, Interval: 1.027, Type:Yawning
+Date: 2023-10-23 14:53:24.593769, Interval: 2.386, Type:Yawning
+Date: 2023-10-23 15:09:25.990287, Interval: 50.208, Type: Eyes not on road
+Date: 2023-10-23 15:09:41.529449, Interval: 15.386, Type: Eyes not on road
+Date: 2023-10-23 15:09:41.539453, Interval: 15.538, Type: Normal
+Date: 2023-10-23 15:09:45.035749, Interval: 2.221, Type: Normal
+Date: 2023-10-23 15:09:54.352685, Interval: 1.981, Type: Normal
+Date: 2023-10-23 15:10:08.147270, Interval: 4.905, Type: Eyes not on road
+Date: 2023-10-23 15:10:08.688044, Interval: 13.353, Type: Normal
+Date: 2023-10-23 15:10:10.337489, Interval: 1.649, Type: Yawning
+Date: 2023-10-23 15:12:22.236053, Interval: 5.0, Type: Eyes not on road
+Date: 2023-10-23 15:12:29.775152, Interval: 16.386, Type:Normal
+Date: 2023-10-23 15:12:36.624542, Interval: 6.66, Type:Normal
+Date: 2023-10-23 15:12:38.156083, Interval: 1.532, Type:Yawning
+Date: 2023-10-23 15:12:40.275380, Interval: 2.113, Type:Normal
+Date: 2023-10-23 15:12:41.797455, Interval: 1.414, Type:Normal
+Date: 2023-10-23 15:14:17.996230, Interval: 95.101, Type: Eyes not on road
+Date: 2023-10-23 15:14:18.897695, Interval: 96.093, Type:Normal
+Date: 2023-10-23 15:14:23.727608, Interval: 4.014, Type:Normal
+Date: 2023-10-23 15:17:02.983480, Interval: 159.101, Type: Eyes not on road
+Date: 2023-10-23 15:17:02.994484, Interval: 159.267, Type:Yawning
+Date: 2023-10-23 15:17:44.129447, Interval: 4.916, Type: Eyes not on road
+Date: 2023-10-23 15:17:47.559204, Interval: 1.627, Type:Normal
+Date: 2023-10-23 15:17:52.934245, Interval: 3.781, Type:Yawning
+Date: 2023-10-23 15:17:57.503658, Interval: 4.562, Type:Normal
+Date: 2023-10-23 15:18:01.200963, Interval: 2.47, Type:Normal
+Date: 2023-10-23 15:18:05.072789, Interval: 3.053, Type:Normal
+Date: 2023-10-23 15:18:08.812274, Interval: 3.645, Type:Normal
+Date: 2023-10-23 15:18:10.812218, Interval: 1.466, Type:Normal
+Date: 2023-10-23 15:18:14.537746, Interval: 2.593, Type:Normal
+Date: 2023-10-23 15:18:26.737967, Interval: 2.742, Type: Normal
+Date: 2023-10-23 15:18:45.478066, Interval: 18.001, Type: Drowsy
+Date: 2023-10-23 15:19:06.890637, Interval: 12.936, Type: Drowsy
+Date: 2023-10-23 15:19:28.844944, Interval: 14.271, Type: Drowsy
+Date: 2023-10-23 15:19:36.450702, Interval: 7.468, Type: Eyes not on road
+Date: 2023-10-23 15:19:44.819267, Interval: 7.485, Type: Eyes not on road
+Date: 2023-10-23 15:20:20.437137, Interval: 4.044, Type: Drowsy
+Date: 2023-10-23 15:20:28.849413, Interval: 4.654, Type: Drowsy
+Date: 2023-10-23 15:20:40.797588, Interval: 11.941, Type: Eyes not on road
+Date: 2023-10-23 15:20:48.042045, Interval: 7.233, Type: Drowsy
+Date: 2023-10-23 15:20:55.508050, Interval: 7.458, Type: Eyes not on road
+Date: 2023-10-23 15:21:18.119139, Interval: 20.817, Type: Eyes not on road
+Date: 2023-10-23 15:22:03.317024, Interval: 43.105, Type: Eyes not on road
+Date: 2023-10-23 15:22:16.850781, Interval: 11.913, Type: Eyes not on road
+Date: 2023-10-23 15:24:01.021760, Interval: 96.603, Type: Eyes not on road
+Date: 2023-10-23 15:24:17.384754, Interval: 7.499, Type: Eyes not on road
+Date: 2023-10-23 15:24:24.967323, Interval: 7.531, Type: Drowsy
+Date: 2023-10-23 15:25:12.560224, Interval: 47.586, Type: Eyes not on road
+Date: 2023-10-23 15:26:10.178321, Interval: 9.962, Type: Eyes not on road
+Date: 2023-10-23 15:26:17.114903, Interval: 5.472, Type: Eyes not on road
+Date: 2023-10-23 15:26:23.390870, Interval: 5.462, Type: Eyes not on road
+Date: 2023-10-23 15:26:29.140570, Interval: 5.485, Type: Eyes not on road
+Date: 2023-10-23 15:26:29.273755, Interval: 19.084, Type: Normal
+Date: 2023-10-23 15:26:31.801283, Interval: 2.528, Type: Drowsy
+Date: 2023-10-23 15:26:41.723025, Interval: 9.915, Type: Eyes not on road
+Date: 2023-10-23 15:26:52.868938, Interval: 11.135, Type: Normal
+Date: 2023-10-23 15:31:56.014490, Interval: 2.45, Type: Normal
+Date: 2023-10-23 15:35:44.327917, Interval: 9.933, Type: Eyes not on road
+Date: 2023-10-23 15:35:46.994097, Interval: 2.655, Type: Normal
+Date: 2023-10-23 15:38:43.657334, Interval: 23.507, Type: Eyes not on road
+Date: 2023-10-23 15:40:44.222588, Interval: 35.012, Type: Drowsy
+Date: 2023-10-23 15:46:57.924359, Interval: 1.409, Type: Eyes not on road
+Date: 2023-10-23 15:47:03.096968, Interval: 5.162, Type: Normal
+Date: 2023-10-23 15:47:26.874382, Interval: 16.82, Type: Drowsy
+Date: 2023-10-23 15:48:07.162527, Interval: 33.204, Type: Drowsy
+Date: 2023-10-23 15:48:09.948202, Interval: 1.24, Type: Eyes not on road
+Date: 2023-10-23 15:48:12.161975, Interval: 1.796, Type: Eyes not on road
+Date: 2023-10-23 15:48:20.163413, Interval: 5.714, Type: Eyes not on road
+Date: 2023-10-23 15:48:24.707946, Interval: 1.266, Type: Eyes not on road
+Date: 2023-10-23 15:48:29.256431, Interval: 1.477, Type: Eyes not on road
+Date: 2023-10-23 15:48:30.626062, Interval: 1.282, Type: Eyes not on road
+Date: 2023-10-23 15:48:35.441309, Interval: 2.787, Type: Eyes not on road
+Date: 2023-10-23 15:48:58.912389, Interval: 2.315, Type: Normal
+Date: 2023-10-23 15:49:05.817962, Interval: 6.906, Type: Drowsy
+Date: 2023-10-23 15:49:11.074021, Interval: 1.159, Type: Eyes not on road
+Date: 2023-10-23 15:49:16.771124, Interval: 10.799, Type: Normal
+Date: 2023-10-23 15:49:20.137940, Interval: 3.367, Type: Drowsy
+Date: 2023-10-23 15:49:27.280316, Interval: 6.842, Type: Normal
+Date: 2023-10-23 15:49:29.653941, Interval: 2.374, Type: Drowsy
+Date: 2023-10-23 15:49:31.242023, Interval: 1.469, Type: Normal
+Date: 2023-10-23 15:49:45.858193, Interval: 6.801, Type: Drowsy
+Date: 2023-10-23 15:49:48.392679, Interval: 1.694, Type: Eyes not on road
+Date: 2023-10-23 15:49:50.815662, Interval: 4.911, Type: Normal
+Date: 2023-10-23 15:49:58.143825, Interval: 7.328, Type: Drowsy
+Date: 2023-10-23 15:50:00.457844, Interval: 1.553, Type: Eyes not on road
+Date: 2023-10-23 15:50:04.950977, Interval: 2.388, Type: Eyes not on road
+Date: 2023-10-23 15:50:18.440296, Interval: 1.153, Type: Eyes not on road
+Date: 2023-10-23 15:50:23.594545, Interval: 3.217, Type: Eyes not on road
+Date: 2023-10-23 15:50:29.859987, Interval: 2.929, Type: Eyes not on road
+Date: 2023-10-23 15:50:31.353531, Interval: 1.447, Type: Eyes not on road
+Date: 2023-10-23 15:50:33.275139, Interval: 1.834, Type: Eyes not on road
+Date: 2023-10-23 15:50:55.871992, Interval: 18.186, Type: Eyes not on road
+Date: 2023-10-23 15:51:11.844908, Interval: 14.475, Type: Eyes not on road
+Date: 2023-10-23 15:51:37.699259, Interval: 25.515, Type: Eyes not on road
+Date: 2023-10-23 15:52:04.638340, Interval: 1.048, Type: Normal
+Date: 2023-10-23 15:52:14.007815, Interval: 9.369, Type: Drowsy
+Date: 2023-10-23 15:52:32.668577, Interval: 6.16, Type: Eyes not on road
+Date: 2023-10-23 15:53:34.233587, Interval: 28.676, Type: Drowsy
+Date: 2023-10-23 15:53:58.511356, Interval: 23.473, Type: Drowsy
+Date: 2023-10-23 15:59:46.290751, Interval: 347.772, Type: Eyes not on road
+Date: 2023-10-23 15:59:56.884455, Interval: 10.546, Type: Eyes not on road
+Date: 2023-10-23 16:00:05.138232, Interval: 1.498, Type: Eyes not on road
+Date: 2023-10-23 16:00:12.792789, Interval: 5.756, Type: Eyes not on road
+Date: 2023-10-23 16:00:17.926446, Interval: 1.744, Type: Eyes not on road
+Date: 2023-10-23 16:00:24.105606, Interval: 2.678, Type: Eyes not on road
+Date: 2023-10-23 16:00:35.335389, Interval: 2.933, Type: Eyes not on road
+Date: 2023-10-23 16:00:43.671496, Interval: 5.193, Type: Drowsy
+Date: 2023-10-23 16:00:48.100055, Interval: 3.857, Type: Eyes not on road
+Date: 2023-10-23 16:01:02.244048, Interval: 11.491, Type: Eyes not on road
+Date: 2023-10-23 16:01:29.332578, Interval: 26.697, Type: Eyes not on road
+Date: 2023-10-23 16:01:35.191266, Interval: 5.527, Type: Eyes not on road
+Date: 2023-10-23 16:01:57.119303, Interval: 16.469, Type: Eyes not on road
+Date: 2023-10-23 16:02:01.106047, Interval: 1.26, Type: Eyes not on road
+Date: 2023-10-23 16:02:04.118511, Interval: 2.962, Type: Drowsy
+Date: 2023-10-23 16:02:06.654120, Interval: 1.972, Type: Eyes not on road
+Date: 2023-10-23 16:02:12.533251, Interval: 5.791, Type: Eyes not on road
+Date: 2023-10-23 16:02:48.794533, Interval: 30.999, Type: Eyes not on road
+Date: 2023-10-23 16:02:56.579059, Interval: 6.957, Type: Eyes not on road
+Date: 2023-10-23 16:03:01.370662, Interval: 3.997, Type: Drowsy
+Date: 2023-10-23 16:06:58.237845, Interval: 3.044, Type: Normal
+Date: 2023-10-23 16:08:33.148762, Interval: 1.528, Type: Normal
+Date: 2023-10-23 16:12:09.948726, Interval: 1.248, Type: Normal
+Date: 2023-10-23 16:14:04.941858, Interval: 1.626, Type: Normal
+Date: 2023-10-23 16:27:42.099429, Interval: 1.022, Type: Eyes not on road
+Date: 2023-10-23 16:28:00.662910, Interval: 3.37, Type: Drowsy
+Date: 2023-10-23 16:28:05.734710, Interval: 3.408, Type: Eyes not on road
+Date: 2023-10-23 16:28:11.944164, Interval: 5.517, Type: Drowsy
+Date: 2023-10-23 16:28:27.531791, Interval: 14.269, Type: Drowsy
+Date: 2023-10-23 16:28:32.527174, Interval: 4.201, Type: Drowsy
+Date: 2023-10-23 16:28:34.015937, Interval: 1.482, Type: Eyes not on road
+Date: 2023-10-23 16:28:43.311061, Interval: 1.274, Type: Eyes not on road
+Date: 2023-10-23 16:28:44.926984, Interval: 1.054, Type: Eyes not on road
+Date: 2023-10-23 16:29:01.125597, Interval: 3.291, Type: Drowsy
+Date: 2023-10-23 16:29:16.348868, Interval: 7.108, Type: Drowsy
+Date: 2023-10-23 16:29:19.279426, Interval: 1.391, Type: Eyes not on road
+Date: 2023-10-23 16:29:26.486127, Interval: 5.053, Type: Drowsy
+Date: 2023-10-23 16:29:28.952479, Interval: 2.449, Type: Eyes not on road
+Date: 2023-10-23 16:29:30.539095, Interval: 1.492, Type: Eyes not on road
+Date: 2023-10-23 16:29:36.053528, Interval: 4.923, Type: Eyes not on road
+Date: 2023-10-23 16:29:39.621371, Interval: 2.232, Type: Eyes not on road
+Date: 2023-10-23 16:29:41.342640, Interval: 1.64, Type: Eyes not on road
+Date: 2023-10-23 16:29:48.395864, Interval: 4.59, Type: Drowsy
+Date: 2023-10-23 16:29:59.234199, Interval: 8.278, Type: Drowsy
+Date: 2023-10-23 16:30:50.554302, Interval: 2.667, Type: Normal
+Date: 2023-10-23 16:36:45.946344, Interval: 1.207, Type: Normal
+Date: 2023-10-23 16:37:04.383295, Interval: 14.124, Type: Drowsy
+Date: 2023-10-23 16:37:06.622739, Interval: 1.035, Type: Eyes not on road
+Date: 2023-10-23 16:37:20.859437, Interval: 8.947, Type: Drowsy
+Date: 2023-10-23 16:37:30.632395, Interval: 5.006, Type: Eyes not on road
+Date: 2023-10-23 16:37:34.827321, Interval: 1.422, Type: Eyes not on road
+Date: 2023-10-23 16:38:03.448771, Interval: 23.952, Type: Drowsy
+Date: 2023-10-23 16:38:24.995919, Interval: 21.533, Type: Eyes not on road
+Date: 2023-10-23 16:38:32.191933, Interval: 3.335, Type: Drowsy
+Date: 2023-10-23 16:38:34.102746, Interval: 1.899, Type: Eyes not on road
+Date: 2023-10-23 16:38:35.853152, Interval: 1.087, Type: Eyes not on road
+Date: 2023-10-23 16:38:57.369082, Interval: 3.33, Type: Eyes not on road
+Date: 2023-10-23 16:39:14.350465, Interval: 6.982, Type: Drowsy
+Date: 2023-10-23 16:39:16.146441, Interval: 1.783, Type: Eyes not on road
+Date: 2023-10-23 16:39:20.708312, Interval: 3.991, Type: Eyes not on road
+Date: 2023-10-23 16:41:19.712227, Interval: 118.854, Type: Eyes not on road
+Date: 2023-10-23 16:41:21.958460, Interval: 2.001, Type: Eyes not on road
+Date: 2023-10-23 16:41:26.222996, Interval: 3.159, Type: Eyes not on road
+Date: 2023-10-23 16:41:28.951951, Interval: 1.221, Type: Eyes not on road
+Date: 2023-10-23 16:41:31.803126, Interval: 1.283, Type: Eyes not on road
+Date: 2023-10-23 16:41:35.957176, Interval: 3.302, Type: Eyes not on road
+Date: 2023-10-23 16:41:43.233200, Interval: 5.399, Type: Eyes not on road
+Date: 2023-10-23 16:41:46.779073, Interval: 1.13, Type: Eyes not on road
+Date: 2023-10-23 16:41:51.463786, Interval: 1.03, Type: Eyes not on road
+Date: 2023-10-23 16:41:53.386839, Interval: 1.622, Type: Eyes not on road
+Date: 2023-10-23 16:41:54.818018, Interval: 1.345, Type: Eyes not on road
+Date: 2023-10-23 16:41:55.913214, Interval: 1.012, Type: Eyes not on road
+Date: 2023-10-23 16:41:58.026758, Interval: 1.6, Type: Eyes not on road
+Date: 2023-10-23 16:42:09.314724, Interval: 4.841, Type: Eyes not on road
+Date: 2023-10-23 16:42:13.815025, Interval: 3.854, Type: Eyes not on road
+Date: 2023-10-23 16:42:17.659600, Interval: 2.337, Type: Eyes not on road
+Date: 2023-10-23 16:42:28.880517, Interval: 1.067, Type: Eyes not on road
+Date: 2023-10-23 16:42:38.420764, Interval: 2.283, Type: Eyes not on road
+Date: 2023-10-23 16:42:42.705135, Interval: 2.714, Type: Eyes not on road
+Date: 2023-10-23 16:43:18.846533, Interval: 3.09, Type: Drowsy
+Date: 2023-10-23 16:43:23.296861, Interval: 3.462, Type: Eyes not on road
+Date: 2023-10-23 16:43:34.732492, Interval: 3.193, Type: Drowsy
+Date: 2023-10-23 16:43:43.837066, Interval: 7.87, Type: Drowsy
+Date: 2023-10-23 16:43:51.800389, Interval: 3.168, Type: Drowsy
+Date: 2023-10-23 16:43:53.638268, Interval: 1.825, Type: Eyes not on road
+Date: 2023-10-23 16:44:23.396283, Interval: 11.102, Type: Drowsy
+Date: 2023-10-23 16:44:48.377520, Interval: 1.143, Type: Eyes not on road
+Date: 2023-10-23 16:44:54.081624, Interval: 4.673, Type: Drowsy
+Date: 2023-10-23 16:45:06.732684, Interval: 8.283, Type: Drowsy
+Date: 2023-10-23 16:45:11.050528, Interval: 3.364, Type: Eyes not on road
+Date: 2023-10-23 16:45:14.158223, Interval: 2.729, Type: Eyes not on road
+Date: 2023-10-23 16:45:16.002083, Interval: 1.604, Type: Eyes not on road
+Date: 2023-10-23 16:45:19.769015, Interval: 3.663, Type: Eyes not on road
+Date: 2023-10-23 16:45:23.193179, Interval: 1.288, Type: Eyes not on road
+Date: 2023-10-23 16:45:28.885978, Interval: 5.223, Type: Eyes not on road
+Date: 2023-10-23 16:45:33.910977, Interval: 4.939, Type: Eyes not on road
+Date: 2023-10-23 16:45:38.339777, Interval: 4.32, Type: Eyes not on road
+Date: 2023-10-23 16:45:44.859079, Interval: 6.434, Type: Eyes not on road
+Date: 2023-10-23 16:45:46.584940, Interval: 1.484, Type: Eyes not on road
+Date: 2023-10-23 16:45:58.655130, Interval: 9.888, Type: Drowsy
+Date: 2023-10-23 16:46:03.081019, Interval: 1.681, Type: Eyes not on road
+Date: 2023-10-23 16:46:09.990511, Interval: 2.099, Type: Eyes not on road
+Date: 2023-10-23 16:46:13.383755, Interval: 1.358, Type: Eyes not on road
+Date: 2023-10-23 16:46:31.542343, Interval: 17.186, Type: Eyes not on road
+Date: 2023-10-23 16:46:33.169780, Interval: 1.546, Type: Eyes not on road
+Date: 2023-10-23 16:46:36.415586, Interval: 1.011, Type: Eyes not on road
+Date: 2023-10-23 16:46:53.670742, Interval: 3.02, Type: Eyes not on road
+Date: 2023-10-23 16:47:09.919569, Interval: 14.451, Type: Eyes not on road
+Date: 2023-10-23 16:47:13.419141, Interval: 3.412, Type: Eyes not on road
+Date: 2023-10-23 16:47:18.136284, Interval: 1.485, Type: Eyes not on road
+Date: 2023-10-23 16:47:23.263759, Interval: 1.701, Type: Eyes not on road
+Date: 2023-10-23 16:49:37.073747, Interval: 1.27, Type: Normal
+Date: 2023-10-23 16:50:46.603832, Interval: 5.502, Type: Eyes not on road
+Date: 2023-10-23 16:50:52.511700, Interval: 5.531, Type: Eyes not on road
+Date: 2023-10-23 16:50:54.042163, Interval: 7.42, Type: Normal
+Date: 2023-10-23 16:52:35.101522, Interval: 6.029, Type: Normal
+Date: 2023-10-23 16:53:21.086647, Interval: 1.067, Type: Normal
+Date: 2023-10-23 16:53:30.880527, Interval: 9.795, Type: Drowsy
+Date: 2023-10-23 16:58:38.868149, Interval: 1.386, Type: Normal
+Date: 2023-10-23 17:00:01.079743, Interval: 1.101, Type: Normal
+Date: 2023-10-23 17:00:50.745018, Interval: 9.12, Type: Normal
+Date: 2023-10-23 17:03:21.104476, Interval: 6.467, Type: Normal
+Date: 2023-10-23 17:09:42.230273, Interval: 56.597, Type: Drowsy
+Date: 2023-10-23 17:10:07.580312, Interval: 25.342, Type: Eyes not on road
+Date: 2023-10-23 17:11:44.243581, Interval: 1.357, Type: Normal
+Date: 2023-10-23 17:12:31.931438, Interval: 5.641, Type: Normal
+Date: 2023-10-23 17:12:42.520471, Interval: 9.742, Type: Drowsy
+Date: 2023-10-23 17:13:04.278215, Interval: 1.11, Type: Normal
+Date: 2023-10-23 17:13:39.883003, Interval: 35.605, Type: Drowsy
+Date: 2023-10-23 17:13:49.223096, Interval: 7.718, Type: Drowsy
+Date: 2023-10-23 17:13:58.311320, Interval: 5.495, Type: Drowsy
+Date: 2023-10-23 17:14:32.662248, Interval: 5.162, Type: Normal
+Date: 2023-10-23 17:16:31.152337, Interval: 14.113, Type: Drowsy
+Date: 2023-10-23 17:17:12.649752, Interval: 1.148, Type: Normal
+Date: 2023-10-23 17:17:40.046553, Interval: 1.111, Type: Normal
+Date: 2023-10-23 17:18:14.386624, Interval: 30.104, Type: Drowsy
+Date: 2023-10-23 17:18:27.784131, Interval: 13.355, Type: Drowsy
+Date: 2023-10-23 17:18:47.288523, Interval: 19.497, Type: Eyes not on road
+Date: 2023-10-23 17:18:57.530827, Interval: 10.166, Type: Eyes not on road
+Date: 2023-10-23 17:19:35.931257, Interval: 36.143, Type: Drowsy
+Date: 2023-10-23 17:19:38.680264, Interval: 1.067, Type: Eyes not on road
+Date: 2023-10-23 17:19:48.616529, Interval: 1.847, Type: Eyes not on road
+Date: 2023-10-23 17:19:50.214460, Interval: 1.521, Type: Eyes not on road
+Date: 2023-10-23 17:22:01.400959, Interval: 1.453, Type: Normal
+Date: 2023-10-23 17:22:14.443632, Interval: 11.097, Type: Eyes not on road
+Date: 2023-10-23 17:22:31.691179, Interval: 11.094, Type: Eyes not on road
+Date: 2023-10-23 17:22:55.783917, Interval: 16.109, Type: Eyes not on road
+Date: 2023-10-23 17:23:03.489952, Interval: 1.014, Type: Eyes not on road
+Date: 2023-10-23 17:23:05.138010, Interval: 1.638, Type: Normal
+Date: 2023-10-23 17:23:22.262387, Interval: 11.074, Type: Eyes not on road
+Date: 2023-10-23 17:23:42.827386, Interval: 6.044, Type: Eyes not on road
+Date: 2023-10-23 17:23:50.965788, Interval: 6.322, Type: Eyes not on road
+Date: 2023-10-23 17:28:33.960446, Interval: 1.051, Type: Eyes not on road
+Date: 2023-10-23 17:28:35.702531, Interval: 1.542, Type: Normal
+Date: 2023-10-23 17:39:14.184824, Interval: 4.639, Type: Drowsy
+Date: 2023-10-23 17:39:33.030539, Interval: 10.138, Type: Drowsy
+Date: 2023-10-23 17:39:44.286137, Interval: 11.249, Type: Eyes not on road
+Date: 2023-10-23 17:40:10.547541, Interval: 25.355, Type: Eyes not on road
+Date: 2023-10-23 17:40:24.264479, Interval: 1.439, Type: Eyes not on road
+Date: 2023-10-23 17:40:36.554425, Interval: 3.284, Type: Eyes not on road
+Date: 2023-10-23 17:40:46.805567, Interval: 3.256, Type: Eyes not on road
+Date: 2023-10-23 17:40:50.611648, Interval: 3.759, Type: Eyes not on road
+Date: 2023-10-23 17:40:58.072954, Interval: 5.312, Type: Drowsy
+Date: 2023-10-23 17:48:37.378398, Interval: 1.244, Type: Normal
+Date: 2023-10-23 17:50:03.588901, Interval: 4.599, Type: Drowsy
+Date: 2023-10-23 17:50:21.097564, Interval: 17.292, Type: Drowsy
+Date: 2023-10-23 17:50:22.107227, Interval: 1.003, Type: Eyes not on road
+Date: 2023-10-23 17:50:30.996455, Interval: 4.546, Type: Eyes not on road
+Date: 2023-10-23 17:50:34.506622, Interval: 3.462, Type: Eyes not on road
+Date: 2023-10-23 17:50:49.016264, Interval: 8.394, Type: Drowsy
+Date: 2023-10-23 17:51:25.394978, Interval: 36.292, Type: Drowsy
+Date: 2023-10-23 17:51:31.017568, Interval: 5.303, Type: Drowsy
+Date: 2023-10-23 17:54:09.469772, Interval: 1.09, Type: Eyes not on road
+Date: 2023-10-23 17:54:19.042459, Interval: 5.624, Type: Eyes not on road
+Date: 2023-10-23 17:54:21.228886, Interval: 1.986, Type: Eyes not on road
+Date: 2023-10-23 17:54:34.412107, Interval: 1.276, Type: Eyes not on road
+Date: 2023-10-23 17:54:37.382210, Interval: 1.14, Type: Eyes not on road
+Date: 2023-10-23 17:54:38.711872, Interval: 1.053, Type: Eyes not on road
+Date: 2023-10-23 17:54:58.909766, Interval: 1.13, Type: Eyes not on road
+Date: 2023-10-23 17:55:07.056310, Interval: 1.029, Type: Eyes not on road
+Date: 2023-10-23 17:55:08.974343, Interval: 1.556, Type: Eyes not on road
+Date: 2023-10-23 17:55:22.516227, Interval: 2.433, Type: Eyes not on road
+Date: 2023-10-23 17:55:37.851809, Interval: 4.958, Type: Eyes not on road
+Date: 2023-10-23 17:55:44.922808, Interval: 4.871, Type: Drowsy
+Date: 2023-10-23 17:55:49.012181, Interval: 2.6, Type: Drowsy
+Date: 2023-10-23 17:55:57.279211, Interval: 5.041, Type: Drowsy
+Date: 2023-10-23 17:56:09.341744, Interval: 2.188, Type: Eyes not on road
+Date: 2023-10-23 17:56:11.670836, Interval: 2.238, Type: Eyes not on road
+Date: 2023-10-23 17:56:18.777707, Interval: 3.091, Type: Eyes not on road
+Date: 2023-10-23 17:56:20.731894, Interval: 1.303, Type: Eyes not on road
+Date: 2023-10-23 17:56:22.273080, Interval: 1.492, Type: Eyes not on road
+Date: 2023-10-23 17:56:26.323759, Interval: 2.636, Type: Eyes not on road
+Date: 2023-10-23 17:56:42.546551, Interval: 1.217, Type: Eyes not on road
+Date: 2023-10-23 17:56:45.028953, Interval: 1.591, Type: Eyes not on road
+Date: 2023-10-23 17:57:12.505453, Interval: 4.677, Type: Drowsy
+Date: 2023-10-23 17:57:44.438697, Interval: 1.332, Type: Eyes not on road
+Date: 2023-10-23 17:57:56.932617, Interval: 1.165, Type: Normal
+Date: 2023-10-23 17:58:08.000936, Interval: 1.336, Type: Eyes not on road
+Date: 2023-10-23 17:58:09.793601, Interval: 1.744, Type: Eyes not on road
+Date: 2023-10-23 17:58:11.469746, Interval: 1.218, Type: Eyes not on road
+Date: 2023-10-23 17:58:16.291500, Interval: 2.068, Type: Eyes not on road
+Date: 2023-10-23 17:58:24.629405, Interval: 3.874, Type: Eyes not on road
+Date: 2023-10-23 17:58:27.579989, Interval: 1.475, Type: Eyes not on road
+Date: 2023-10-23 17:58:31.295977, Interval: 3.67, Type: Eyes not on road
+Date: 2023-10-23 17:58:49.211192, Interval: 5.336, Type: Drowsy
+Date: 2023-10-23 17:59:04.201556, Interval: 1.638, Type: Normal
+Date: 2023-10-23 17:59:11.093569, Interval: 6.804, Type: Drowsy
+Date: 2023-10-23 17:59:12.725435, Interval: 1.353, Type: Eyes not on road
+Date: 2023-10-23 17:59:39.473682, Interval: 8.261, Type: Eyes not on road
+Date: 2023-10-23 17:59:42.675631, Interval: 2.955, Type: Eyes not on road
+Date: 2023-10-23 17:59:44.905987, Interval: 1.41, Type: Eyes not on road
+Date: 2023-10-23 17:59:45.157549, Interval: 14.023, Type: Normal
+Date: 2023-10-23 18:00:05.017252, Interval: 3.78, Type: Drowsy
+Date: 2023-10-23 18:13:46.311817, Interval: 2.387, Type: Normal
+Date: 2023-10-23 18:13:53.873509, Interval: 1.58, Type: Eyes not on road
+Date: 2023-10-23 18:13:56.773133, Interval: 2.463, Type: Eyes not on road
+Date: 2023-10-23 18:14:01.485614, Interval: 2.024, Type: Eyes not on road
+Date: 2023-10-23 18:14:25.926895, Interval: 18.509, Type: Drowsy
+Date: 2023-10-23 18:14:29.258247, Interval: 2.874, Type: Eyes not on road
+Date: 2023-10-23 18:14:33.176139, Interval: 3.0, Type: Drowsy
+Date: 2023-10-23 18:15:01.065429, Interval: 26.566, Type: Drowsy
+Date: 2023-10-23 18:15:16.070696, Interval: 14.267, Type: Drowsy
+Date: 2023-10-23 18:15:22.382963, Interval: 6.304, Type: Eyes not on road
+Date: 2023-10-23 18:15:23.608828, Interval: 1.057, Type: Eyes not on road
+Date: 2023-10-23 18:15:44.179739, Interval: 20.123, Type: Eyes not on road
+Date: 2023-10-23 18:16:42.983704, Interval: 58.636, Type: Eyes not on road
+Date: 2023-10-23 18:16:48.635067, Interval: 1.748, Type: Eyes not on road
+Date: 2023-10-23 18:16:54.480950, Interval: 3.367, Type: Drowsy
+Date: 2023-10-23 18:16:55.831895, Interval: 1.342, Type: Eyes not on road
+Date: 2023-10-23 20:40:47.641354, Interval: 6.473, Type: Eyes not on road
+Date: 2023-10-23 20:40:52.444166, Interval: 2.922, Type: Eyes not on road
+Date: 2023-10-23 20:40:52.901359, Interval: 3.654, Type: Normal
+Date: 2023-10-23 20:40:55.301060, Interval: 2.4, Type: Drowsy
+Date: 2023-10-23 20:40:59.815497, Interval: 1.882, Type: Normal
+Date: 2023-10-23 20:41:02.270450, Interval: 1.651, Type: Eyes not on road
+Date: 2023-10-23 20:41:06.513455, Interval: 4.186, Type: Eyes not on road
+Date: 2023-10-23 20:41:07.751302, Interval: 1.19, Type: Eyes not on road
+Date: 2023-10-23 20:41:12.209793, Interval: 4.334, Type: Eyes not on road
+Date: 2023-10-23 20:41:13.123706, Interval: 12.793, Type: Normal
+Date: 2023-10-23 20:41:14.752643, Interval: 1.312, Type: Normal
+Date: 2023-10-23 20:41:17.047938, Interval: 2.295, Type: Drowsy
+Date: 2023-10-23 20:41:29.274938, Interval: 11.377, Type: Normal
+Date: 2023-10-23 20:41:34.314104, Interval: 3.712, Type: Normal
+Date: 2023-10-23 20:41:44.363388, Interval: 2.341, Type: Normal
+Date: 2023-10-23 20:41:46.323571, Interval: 1.546, Type: Normal
+Date: 2023-10-23 20:42:01.086150, Interval: 10.132, Type: Drowsy
+Date: 2023-10-23 20:42:02.944603, Interval: 1.329, Type: Eyes not on road
+Date: 2023-10-23 20:42:07.075034, Interval: 1.015, Type: Eyes not on road
+Date: 2023-10-23 20:42:21.171912, Interval: 13.293, Type: Drowsy
+Date: 2023-10-23 20:42:25.701784, Interval: 4.514, Type: Eyes not on road
+Date: 2023-10-23 20:42:41.857193, Interval: 8.738, Type: Drowsy
+Date: 2023-11-22 20:08:48.023876, Interval: 2.304, Type:Normal
+Date: 2023-11-22 20:08:50.973355, Interval: 2.949, Type:Drowsy
+Date: 2023-11-22 20:08:53.803251, Interval: 2.189, Type:Yawning
+Date: 2023-11-22 20:08:55.259020, Interval: 1.45, Type:Normal
+Date: 2023-11-22 20:08:56.891632, Interval: 1.117, Type:Normal
+Date: 2023-11-22 20:21:29.785170, Interval: 1.478, Type:Normal
+Date: 2023-11-22 20:21:31.408792, Interval: 1.568, Type:Normal
+Date: 2023-11-22 20:21:36.509292, Interval: 4.927, Type:Yawning
+Date: 2023-11-22 20:21:43.195187, Interval: 2.524, Type:Normal
+Date: 2023-11-22 20:21:48.237168, Interval: 1.327, Type:Normal
+Date: 2023-11-22 20:21:51.291243, Interval: 1.702, Type:Normal
+Date: 2023-11-22 20:22:26.785878, Interval: 3.583, Type:Yawning
+Date: 2023-11-22 20:22:30.155419, Interval: 2.75, Type:Yawning
+Date: 2023-11-22 20:22:47.773402, Interval: 4.127, Type:Drowsy
+Date: 2023-11-22 20:22:49.896538, Interval: 1.417, Type:Normal
+Date: 2023-11-22 20:22:54.950127, Interval: 2.694, Type:Normal
+Date: 2023-11-22 20:22:56.807853, Interval: 1.207, Type:Normal
+Date: 2023-11-22 20:22:58.565287, Interval: 1.11, Type:Normal
+Date: 2023-11-22 20:23:05.371722, Interval: 1.934, Type:Normal
+Date: 2023-11-22 20:23:09.003543, Interval: 1.646, Type:Normal
+Date: 2023-11-22 20:23:14.630773, Interval: 2.464, Type: Eyes not on road
+Date: 2023-11-22 20:23:17.765636, Interval: 1.099, Type: Eyes not on road
+Date: 2023-11-22 20:23:20.425542, Interval: 10.327, Type:Normal
+Date: 2023-11-22 20:23:37.229585, Interval: 2.254, Type: Eyes not on road
+Date: 2023-11-22 20:23:40.731308, Interval: 2.004, Type: Eyes not on road
+Date: 2023-11-22 20:23:40.741809, Interval: 6.576, Type:Normal
+Date: 2023-11-22 20:23:43.513928, Interval: 1.182, Type:Normal
+Date: 2023-11-22 20:23:45.225127, Interval: 1.155, Type: Eyes not on road
+Date: 2023-11-22 20:23:45.646091, Interval: 1.608, Type:Normal
+Date: 2023-11-22 20:23:54.713249, Interval: 7.468, Type: Eyes not on road
+Date: 2023-11-22 20:24:58.177625, Interval: 2.227, Type: Eyes not on road
+Date: 2023-11-22 20:24:58.419725, Interval: 2.717, Type:Normal
+Date: 2023-11-22 20:25:01.974768, Interval: 1.043, Type:Normal
+Date: 2023-11-22 20:25:06.512718, Interval: 1.725, Type:Normal
+Date: 2023-11-22 20:25:10.728167, Interval: 3.894, Type:Normal
+Date: 2023-11-22 20:25:13.577870, Interval: 2.253, Type:Drowsy
+Date: 2023-11-22 20:25:15.667680, Interval: 1.44, Type:Normal
+Date: 2023-11-22 20:25:17.190543, Interval: 1.379, Type:Normal
+Date: 2023-11-22 20:25:21.401748, Interval: 3.193, Type:Yawning
+Date: 2023-11-22 20:25:24.226921, Interval: 2.132, Type:Normal
+Date: 2023-11-22 20:25:59.915320, Interval: 6.223, Type:Normal
+Date: 2023-11-22 20:26:01.927645, Interval: 1.394, Type:Normal
+Date: 2023-11-22 20:26:03.446171, Interval: 1.519, Type:Drowsy
+Date: 2023-11-22 20:26:06.989403, Interval: 3.537, Type:Normal
+Date: 2023-11-22 20:26:11.039207, Interval: 4.05, Type:Yawning
+Date: 2023-11-22 20:26:12.774908, Interval: 1.728, Type:Normal
+Date: 2023-11-22 20:26:13.658626, Interval: 0.884, Type:Yawning
+Date: 2023-11-22 20:26:17.518539, Interval: 3.853, Type:Normal
+Date: 2023-11-22 20:26:19.476952, Interval: 1.031, Type:Normal
+Date: 2023-11-22 20:26:24.646528, Interval: 5.17, Type:Yawning
+Date: 2023-11-22 20:38:14.918780, Interval: 5.669, Type: Eyes not on road
+Date: 2023-11-22 20:38:18.918610, Interval: 3.988, Type:Normal
+Date: 2023-11-22 20:38:19.918652, Interval: 0.916, Type:Yawning
+Date: 2023-11-22 20:38:20.565209, Interval: 0.568, Type:Yawning
+Date: 2023-11-22 20:38:23.752001, Interval: 2.322, Type: Eyes not on road
+Date: 2023-11-22 20:38:25.975429, Interval: 1.005, Type: Eyes not on road
+Date: 2023-11-22 20:38:30.131722, Interval: 9.221, Type:Normal
+Date: 2023-11-22 20:38:34.963670, Interval: 1.131, Type:Yawning
+Date: 2023-11-22 20:38:35.914680, Interval: 0.874, Type:Yawning
+Date: 2023-11-22 20:38:41.755253, Interval: 5.409, Type: Eyes not on road
+Date: 2023-11-22 20:38:43.946826, Interval: 8.025, Type:Normal
+Date: 2023-11-22 20:38:45.632116, Interval: 1.228, Type:Normal
+Date: 2023-11-22 20:38:49.618539, Interval: 3.155, Type:Yawning
+Date: 2023-11-22 20:38:53.608145, Interval: 3.983, Type:Normal
+Date: 2023-11-22 20:38:55.594919, Interval: 1.812, Type:Normal
+Date: 2023-11-22 20:38:57.715014, Interval: 1.093, Type:Normal
+Date: 2023-11-22 20:39:09.141058, Interval: 10.937, Type:Normal
+Date: 2023-11-22 20:39:19.194708, Interval: 9.905, Type:Normal
+Date: 2023-11-22 20:41:05.052769, Interval: 2.902, Type:Normal
+Date: 2023-11-22 20:41:09.987404, Interval: 4.935, Type:Yawning
+Date: 2023-11-22 20:41:19.750117, Interval: 9.756, Type:Normal
+Date: 2023-11-22 20:41:26.519040, Interval: 6.663, Type:Normal
+Date: 2023-11-22 20:41:28.253518, Interval: 1.527, Type:Normal
+Date: 2023-11-22 20:41:34.078676, Interval: 5.317, Type:Normal
+Date: 2023-11-22 20:41:38.165722, Interval: 3.756, Type:Normal
+Date: 2023-11-22 20:41:39.153420, Interval: 0.593, Type:Yawning
+Date: 2023-11-22 20:44:24.666986, Interval: 2.444, Type:Normal
+Date: 2023-11-22 20:44:26.157863, Interval: 1.491, Type:Yawning
+Date: 2023-11-22 20:44:28.220485, Interval: 2.045, Type:Normal
+Date: 2023-11-22 20:44:32.017964, Interval: 3.797, Type:Yawning
+Date: 2023-11-22 20:44:34.361287, Interval: 2.325, Type:Normal
+Date: 2023-11-22 20:46:11.727962, Interval: 9.032, Type:Yawning
+Date: 2023-11-22 20:46:30.405770, Interval: 7.28, Type:Yawning
+Date: 2023-11-22 20:46:33.378049, Interval: 2.496, Type:Normal
+Date: 2023-11-22 20:46:35.414592, Interval: 1.925, Type:Drowsy
+Date: 2023-11-22 20:46:39.563248, Interval: 2.398, Type:Normal
+Date: 2023-11-22 20:46:45.722192, Interval: 6.08, Type:Normal
+Date: 2023-11-22 20:46:48.228273, Interval: 0.693, Type: Eyes not on road
+Date: 2023-11-22 20:46:48.434173, Interval: 2.392, Type:Normal
+Date: 2023-11-22 20:46:49.959328, Interval: 1.416, Type: Eyes not on road
+Date: 2024-05-23 01:59:10.758335, Interval: 11.744, Type: Eyes not on road
+Date: 2024-05-23 01:59:18.803843, Interval: 8.04, Type:Normal
+Date: 2024-05-23 01:59:24.118587, Interval: 5.315, Type:Drowsy
+Date: 2024-05-23 01:59:25.802201, Interval: 1.333, Type:Normal
+Date: 2024-05-23 01:59:28.531956, Interval: 1.376, Type: Eyes not on road
+Date: 2024-05-23 02:04:28.030768, Interval: 9.879, Type: Eyes not on road
+Date: 2024-05-23 02:04:29.285931, Interval: 1.157, Type: Normal
+Date: 2024-05-23 02:04:30.888061, Interval: 1.227, Type: Normal
+Date: 2024-05-23 02:04:49.139572, Interval: 13.32, Type: Normal
+Date: 2024-05-23 02:07:04.766978, Interval: 2.547, Type: Eyes not on road
+Date: 2024-05-23 02:07:09.000680, Interval: 2.761, Type: Eyes not on road
+Date: 2024-05-23 02:07:16.390299, Interval: 11.618, Type:Normal
+Date: 2024-05-23 02:07:21.846457, Interval: 5.456, Type:Yawning
+Date: 2024-05-23 02:07:26.604745, Interval: 1.462, Type: Eyes not on road
+Date: 2024-05-23 02:07:30.538297, Interval: 2.26, Type: Eyes not on road
+Date: 2024-05-23 02:07:35.638933, Interval: 0.562, Type: Eyes not on road
+Date: 2024-05-23 02:09:56.825088, Interval: 0.704, Type: Eyes not on road
+Date: 2024-05-23 02:09:58.851398, Interval: 1.433, Type: Eyes not on road
+Date: 2024-05-23 02:09:58.854950, Interval: 2.026, Type:Normal
+Date: 2024-05-23 02:10:00.472016, Interval: 1.008, Type: Eyes not on road
+Date: 2024-05-26 00:35:05.887806, Interval: 4.121, Type:Normal
+Date: 2024-05-26 00:35:08.803151, Interval: 1.649, Type:Yawning
+Date: 2024-05-26 00:35:11.285857, Interval: 2.338, Type:Yawning
+Date: 2024-05-26 00:35:13.655571, Interval: 1.508, Type:Normal
+Date: 2024-05-26 00:35:18.441239, Interval: 3.03, Type: Eyes not on road
+Date: 2024-05-26 00:35:21.032356, Interval: 1.094, Type: Eyes not on road
+Date: 2024-05-26 00:35:24.105756, Interval: 5.456, Type:Normal
+Date: 2024-05-26 00:35:25.320216, Interval: 0.613, Type: Eyes not on road
+Date: 2024-05-26 00:35:25.582602, Interval: 1.405, Type:Normal
+Date: 2024-05-26 00:35:27.875316, Interval: 0.58, Type: Eyes not on road
+Date: 2024-05-26 00:35:27.992879, Interval: 1.398, Type:Normal
+Date: 2024-05-26 00:37:43.158050, Interval: 2.314, Type: Eyes not on road
+Date: 2024-05-26 00:37:48.119148, Interval: 2.37, Type: Eyes not on road
+Date: 2024-05-26 00:37:48.123399, Interval: 4.498, Type:Normal
+Date: 2024-05-26 00:37:49.317162, Interval: 0.634, Type: Eyes not on road
+Date: 2024-05-27 01:04:24.752539, Interval: 16.412, Type: Eyes not on road
